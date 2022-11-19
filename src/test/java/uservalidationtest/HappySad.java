@@ -6,7 +6,7 @@ import check.UserRegistrationJUnit;
 import org.junit.Test;
 
 
-public class Test2 {
+public class HappySad {
     UserRegistrationJUnit obj = new UserRegistrationJUnit();
 
     @Test
